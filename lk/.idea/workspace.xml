@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c76237ca-1084-4a17-b0ca-62b2cf44f822" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="package-info" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Q2axMJc9s9qKP2xOIwH58bMgFL" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.it" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\lk\src\main\resources\dao" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\lk\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MybatisTest.updateUserTest">
+    <configuration name="MybatisTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.it.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.it" />
+      <option name="MAIN_CLASS_NAME" value="com.it.MybatisTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.findUserByNameTset" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.it.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.it" />
+      <option name="MAIN_CLASS_NAME" value="com.it.MybatisTest" />
+      <option name="METHOD_NAME" value="findUserByNameTset" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.insertUserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.it.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.it" />
+      <option name="MAIN_CLASS_NAME" value="com.it.MybatisTest" />
+      <option name="METHOD_NAME" value="insertUserTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.inseryUserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.it.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.it" />
+      <option name="MAIN_CLASS_NAME" value="com.it.MybatisTest" />
+      <option name="METHOD_NAME" value="inseryUserTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.updateUserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.it.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.it" />
+      <option name="MAIN_CLASS_NAME" value="com.it.MybatisTest" />
+      <option name="METHOD_NAME" value="updateUserTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MybatisTest.updateUserTest" />
+        <item itemvalue="JUnit.MybatisTest" />
+        <item itemvalue="JUnit.MybatisTest.insertUserTest" />
+        <item itemvalue="JUnit.MybatisTest.inseryUserTest" />
+        <item itemvalue="JUnit.MybatisTest.findUserByNameTset" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c76237ca-1084-4a17-b0ca-62b2cf44f822" name="Default Changelist" comment="" />
+      <created>1566971389706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566971389706</updated>
+      <workItem from="1566971392944" duration="15475000" />
+      <workItem from="1566987638996" duration="10000000" />
+      <workItem from="1567040741581" duration="27572000" />
+      <workItem from="1567128332691" duration="650000" />
+      <workItem from="1567132809262" duration="1438000" />
+      <workItem from="1567139100758" duration="4326000" />
+      <workItem from="1567166671732" duration="12000" />
+      <workItem from="1567170649306" duration="2076000" />
+      <workItem from="1567214102078" duration="738000" />
+      <workItem from="1567225677381" duration="615000" />
+      <workItem from="1567250144846" duration="18000" />
+      <workItem from="1567250475311" duration="9000" />
+      <workItem from="1567323415456" duration="18000" />
+      <workItem from="1567405274222" duration="2271000" />
+      <workItem from="1567502989970" duration="14000" />
+      <workItem from="1567503266303" duration="2000" />
+      <workItem from="1567645934719" duration="1237000" />
+      <workItem from="1567654686917" duration="4000" />
+      <workItem from="1567826969357" duration="1947000" />
+      <workItem from="1567831251490" duration="728000" />
+      <workItem from="1567833574030" duration="6802000" />
+      <workItem from="1567857236779" duration="1060000" />
+      <workItem from="1567904298885" duration="1560000" />
+      <workItem from="1567909764791" duration="3817000" />
+      <workItem from="1567939443410" duration="6000" />
+      <workItem from="1568006853557" duration="490000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!--namespce命名空间，可以随便命名-->
+<mapper namespace="test">
+
+    <select id="findUserById" parameterType="int"  resultType="dumain.User">
+   SELECT  * FROM  student where  id=#{id}
+</select>
+
+
+
+
+
+    <!--查询多个,模糊用户查询   ${}表示拼接字符串
+    使用${}容易引起sql注入${value}:接受输入参数的内容-->
+    <select id="findUserByName" parameterType="java.lang.String" resultType="dumain.User">
+        SELECT  * from student where name LIKE '%${value}$%'
+    </select>
+
+
+
+
+    <!--添加用户-->
+    <insert id="insertUser" parameterType="dumain.User" >
+
+          insert  into student (name) values (#{name})
+</insert>
+
+
+
+
+    <!--删除用户-->
+    <delete id="deleteUser"  parameterType="java.lang.Integer">
+        delete from student where id =#{id}
+    </delete>
+
+
+
+
+    <!---更新用户-->
+    <update id="updateUser" parameterType="dumain.User" >
+        update student  set name=#{name} where id=#{id}
+    </update>
+
+</mapper>
+
